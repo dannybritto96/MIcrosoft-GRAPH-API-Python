@@ -12,9 +12,8 @@
 Refer: <https://support.office.com/en-gb/article/enable-or-disable-modern-authentication-in-exchange-online-58018196-f918-49cd-8238-56f57f38d662>
 
 Set 
-
 <pre>auto=True</pre> 
-in line 22 to automatically open the browser and copy the code to the clipboard.
+in line 22(function definition) to automatically open the browser and copy the code to the clipboard.
 
 <strong><em>sample.py</em> lists all the user's calendar and creates an event in the user's default calendar.<strong>
   
