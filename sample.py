@@ -9,7 +9,7 @@ from adal import AuthenticationContext
 import pyperclip
 import requests
 
-CLIENT_ID = "" #Application ID fro Azure AD Portal
+CLIENT_ID = "" #Application ID from Azure AD Portal
 AUTHORITY_URL = 'https://login.microsoftonline.com/common'
 RESOURCE = 'https://graph.microsoft.com'
 API_VERSION = 'beta'
