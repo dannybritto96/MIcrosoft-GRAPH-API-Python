@@ -1,1 +1,1 @@
-# Microsoft-Graph-API-Python
+# Microsoft Graph API Python
