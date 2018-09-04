@@ -3,6 +3,7 @@ import mimetypes
 import os
 import urllib
 import webbrowser
+import json
 
 from adal import AuthenticationContext
 import pyperclip
